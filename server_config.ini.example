@@ -1,0 +1,5 @@
+[frp_server]
+server_addr = 127.0.0.1
+server_port = 17000
+auth_token = replace-with-your-frp-token
+public_https_host = remote.example.com

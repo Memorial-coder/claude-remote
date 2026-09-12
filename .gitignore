@@ -1,0 +1,36 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.pyo
+.Python
+*.egg-info/
+.venv/
+venv/
+env/
+
+# Build artifacts
+build/
+dist/
+_internal/
+*.zip
+
+# Runtime / local secrets
+server_config.ini
+.claude_remote_uploads/
+*.log
+*.tmp
+*.toml
+security.json
+state.json
+
+# OS / IDE
+.claude/
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# Local compiled binary (optional; keep source as source of truth)
+Claude手机遥控助手.exe
